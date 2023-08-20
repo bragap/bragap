@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I enjoy creating great software and helping other people do the same.
+Welcome to my personal account. I enjoy creating great software and helping other people do the same. I'm very excited about what the future holds for me.
 
 ## More about me
 
@@ -10,7 +10,7 @@ I enjoy creating great software and helping other people do the same.
 object **Pedro** {
  val name = "Pedro Henrique Braga de Castro"
  val acknowledgements = "Software Engineering curently in the 2nd period"
- val primarySkillset = "Very compromissed student,loving to work with Front-end"
+ val primarySkillset = "Very compromissed and focused student"
  val languages = listOf("JavaScript", "React", "Java", "C++", "C")
 
 }
