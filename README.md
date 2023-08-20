@@ -30,8 +30,8 @@ object **Pedro** {
 ## Status
 
 <a href="https://github.com/bragap">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragap&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bragap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragap&layout=compact&langs_count=7&title_color=DDE6ED&text_color=DDE6ED&icon_color=DDE6ED&bg_color=272829"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bragap&show_icons=true&title_color=DDE6ED&text_color=DDE6ED&icon_color=DDE6ED&bg_color=272829"/>
 </a>
 
 [website]: https://codedev.ga/
