@@ -4,7 +4,7 @@ Welcome to my personal account. Make yourself at home. I enjoy creating great so
 
 ## More about me
 
-<img align="right" height="169" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" height="149" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **Pedro** {
