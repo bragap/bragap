@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Pedro Braga! 👋
 
 Welcome to my personal account. Make yourself at home. I enjoy creating great software and helping other people do the same. I'm very excited about what the future holds for me.
 
