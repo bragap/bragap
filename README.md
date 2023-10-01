@@ -1,8 +1,8 @@
 # Hi there, I'm Pedro Braga! 👋
 
-Welcome to my personal account. Make yourself at home. I enjoy creating great software and helping other people do the same. I'm very excited about what the future holds for me.
+Welcome to my personal account. I'm enjoying learning about UX Design and FrontEnd development. So, I want to become an excellent Software Engineer, being able to deliver products with FrontEnd and Design quality.
 
-## More about me
+##  More about me
 
 <img align="right" height="150" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -10,36 +10,25 @@ Welcome to my personal account. Make yourself at home. I enjoy creating great so
 object **Pedro** {
  val name = "Pedro Henrique Braga de Castro"
  val acknowledgements = "Software Engineering curently in the 2nd period"
- val primarySkillset = "Very compromissed and focused student"
- val languages = listOf("JavaScript", "React", "Java", "C++", "C")
+ val primarySkillset = "An excellent UX/UI FrontEnd Developer"
+ val languages = listOf("JavaScript", "React", "UX/UI Design", "Bootstrap", "Chakra UI", "Figma", "Tailwind CSS")
 
 }
 ```
 
-## Languages ​​and tools
+## 🚀 Languages ​​and tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Pe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Pe-Boott" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+     <img align="center" alt="Pe-Chakra" height="30" width="35" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png">
+      <img align="center" alt="Pe-Chakra" height="30" width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
+ 
   <img align="center" alt="Pe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Status
-
-<a href="https://github.com/bragap">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragap&layout=compact&langs_count=7&title_color=DDE6ED&text_color=DDE6ED&icon_color=DDE6ED&bg_color=272829"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bragap&show_icons=true&title_color=DDE6ED&text_color=DDE6ED&icon_color=DDE6ED&bg_color=272829"/>
-</a>
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
-<br>
 
 ## Social media
 
