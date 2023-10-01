@@ -11,7 +11,7 @@ object **Pedro** {
  val name = "Pedro Henrique Braga de Castro"
  val acknowledgements = "Software Engineering curently in the 2nd period"
  val primarySkillset = "An excellent UX/UI FrontEnd Developer"
- val languages = listOf("JavaScript", "React", "UX/UI Design", "Bootstrap", "Chakra UI", "Figma", "Tailwind CSS")
+ val languages = listOf("JavaScript", "React", "UX/UI Design", "Bootstrap", "Chakra UI", "Figma")
 
 }
 ```
