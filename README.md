@@ -1,6 +1,8 @@
 # Hi there, I'm Pedro Braga! 👋
 
-Welcome to my personal account. I am developing software with qualities in UX/UI Design and FrontEnd. For the future, I want to become an excellent Software Engineer, being able to deliver products with quality FrontEnd and Design.
+I'm a Software Engineering student, currently in my second term. I have a passion for developing Front-End projects, where I use technologies such as ReactJS and Sass to create exceptional digital experiences.
+
+My area of interest focuses heavily on Web Design, with an emphasis on creating attractive interfaces and improving the User Experience (UX). I am committed to making the web more beautiful and functional.
 
 ## You can find me
 
@@ -19,6 +21,7 @@ Welcome to my personal account. I am developing software with qualities in UX/UI
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -30,7 +33,7 @@ Welcome to my personal account. I am developing software with qualities in UX/UI
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Future Learnings
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
