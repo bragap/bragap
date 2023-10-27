@@ -4,7 +4,7 @@ I'm a Software Engineering student, currently in my second term. I have a passio
 
 My area of interest focuses heavily on Web Design, with an emphasis on creating attractive interfaces and improving the User Experience (UX). I am committed to making the web more beautiful and functional.
 
-#### See my curriculum [here](curriculo-react-sass-ten.vercel.app)
+#### See my curriculum [here](https://curriculo-react-sass-ten.vercel.app/)
 
 ## You can find me
 
