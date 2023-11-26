@@ -1,25 +1,25 @@
-# Hi there, I'm Pedro Braga! 👋
+# Olá, eu sou o Pedro Braga! 👋
 
-I'm a Software Engineering student, currently in my second term. I have a passion for developing Front-End projects, where I use technologies such as ReactJS and Sass to create exceptional digital experiences.
+Sou um estudante de Engenharia de Software, atualmente no meu segundo período. Tenho uma paixão pelo desenvolvimento de projetos Front-End, onde utilizo tecnologias como ReactJS e Sass para criar experiências digitais excepcionais.
 
-My area of interest focuses heavily on Web Design, with an emphasis on creating attractive interfaces and improving the User Experience (UX). I am committed to making the web more beautiful and functional.
+A minha área de interesse centra-se fortemente no Front-End, com ênfase na criação de interfaces atractivas e na melhoria da Experiência do Utilizador (UX). Estou focado em Web Design e empenhado em tornar a web mais bonita e funcional.
 
-#### See my curriculum [here](https://curriculo-react-sass-ten.vercel.app/)
+#### Veja o meu currículo [aqui](https://curriculo-react-sass-ten.vercel.app/)
 
-## You can find me
+## Você pode me encontrar
 
 <div> 
   <a href = "mailto:pcastro@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-848416244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##  More about me
-- 🤖 Currently developing software with a focus on Front End and UX/UI Design.
-- 🎓 I'm currently in 2º period of Software Engineering in PUC Minas.
-- 💼 Working as a FrontEnd Lead in WebTech at PUC Minas.
+##  Mais sobre mim
+- 🤖 Atualmente desenvolvo software com foco em Front End e UX/UI Design.
+- 🎓 Cursando o 2º período de Engenharia de Software na PUC Minas.
+- 💼 Trabalhando como FrontEnd Lead na WebTech e Monitor de Desenvolvimento de Interfaces Web na PUC Minas.
 
 
-## Languages & Frameworks
+## Linguagens e Frameworks 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,14 +29,14 @@ My area of interest focuses heavily on Web Design, with an emphasis on creating 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## Tools
+## Ferramentas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Future Learnings
+## Próximos aprendizados
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
