@@ -15,7 +15,7 @@ A minha área de interesse centra-se fortemente no Front-End, com ênfase na cri
 
 ##  Mais sobre mim
 - 🤖 Atualmente desenvolvo software com foco em Front End e UX/UI Design.
-- 🎓 Cursando o 2º período de Engenharia de Software na PUC Minas.
+- 🎓 Cursando o 3º período de Engenharia de Software na PUC Minas.
 - 💼 Trabalhando como FrontEnd Lead na WebTech e Monitor de Desenvolvimento de Interfaces Web na PUC Minas.
 
 
