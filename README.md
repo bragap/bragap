@@ -3,7 +3,7 @@
 Sou um estudante de Engenharia de Software, atualmente no meu terceiro período. Tenho uma paixão pelo desenvolvimento de projetos Front-End, onde utilizo tecnologias como ReactJS e Sass para criar experiências digitais excepcionais.
 
 
-### Veja o portfólio de [Programador](https://curriculo-react-sass-ten.vercel.app/).
+### Veja o portfólio de [Programador](https://curriculo-react-sass-ten.vercel.app/) e meu currículo.
 
 ## Você pode me encontrar
 
