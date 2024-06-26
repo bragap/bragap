@@ -9,4 +9,4 @@ Sinta-se livre para checar meu [Portfolio](https://curriculo-react-sass-ten.verc
 - 🏢 Estudante de Engenharia de Software na PUC Minas. [@PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx), em BH.
 - 🧰 Expert em: `React.js` `TypeScript`, `JavaScript`, `SASS`, `Tailwind`, `Styled-Components` ...
 - ⚡ Eu curto games, leitura e futebol :)
-- 📫 Reach out to me: pcastro@sga.pucminas.br
+- 📫 Entre em contato: pcastro@sga.pucminas.br
