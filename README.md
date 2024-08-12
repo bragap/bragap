@@ -5,7 +5,7 @@
 
 
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://curriculo-react-sass-ten.vercel.app/) 
-Sinta-se livre para checar meu [Portfolio](https://pedrobragadev.vercel.app/)
+Sinta-se livre para checar meu [Portfolio](https://www.pedrobragadev.com/)
 - 🏢 Estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - 🧰 Expert em: `React.js`, `Next.js`, `TypeScript`, `JavaScript`, `SASS`, `Tailwind`, `Styled-Components` ...
 - ⚡ Eu curto games, leitura e futebol :)
