@@ -1,7 +1,7 @@
 <h3>Hey, I'm Pedro Braga!</h3>
 
 - 🔥 Feel free to check my [Portfolio](https://www.pedrobragadev.com/).
-- 🏢 Software Engineering at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
+- 🏢 Software Engineering Student at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
 - 🧰 Expert in: `React.js`, `Next.js`, `TypeScript`, `JavaScript`, `SASS`, `Tailwind`, `Styled-Components` ...
 - ⚡ I like games, futebool and books :)
 - 📫 Reach me: pcastro@sga.pucminas.br
